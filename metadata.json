@@ -1,0 +1,6 @@
+{
+  "name": "SmartFridge AI 智慧冰箱料理助理",
+  "description": "智慧冰箱食材視覺盤點、設備與飲食偏好篩選、即時生成美味食譜與一鍵扣除庫存的一站式料理助理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
